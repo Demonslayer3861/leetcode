@@ -42,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Demonslayer3861/leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Demonslayer3861/leetcode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
