@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Demonslayer3861/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Demonslayer3861/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Demonslayer3861/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Demonslayer3861/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Demonslayer3861/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Demonslayer3861/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Demonslayer3861/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Demonslayer3861/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Demonslayer3861/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Demonslayer3861/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/Demonslayer3861/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Demonslayer3861/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Demonslayer3861/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
