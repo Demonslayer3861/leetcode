@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Demonslayer3861/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/Demonslayer3861/leetcode/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
