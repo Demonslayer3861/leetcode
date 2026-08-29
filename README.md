@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Demonslayer3861/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Demonslayer3861/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Demonslayer3861/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0238-product-of-array-except-self](https://github.com/Demonslayer3861/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Demonslayer3861/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Demonslayer3861/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
