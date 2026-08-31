@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Demonslayer3861/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Demonslayer3861/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Demonslayer3861/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Demonslayer3861/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Demonslayer3861/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Demonslayer3861/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Demonslayer3861/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Demonslayer3861/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Demonslayer3861/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Demonslayer3861/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Demonslayer3861/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Demonslayer3861/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Demonslayer3861/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
