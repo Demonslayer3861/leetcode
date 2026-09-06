@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Demonslayer3861/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Demonslayer3861/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Demonslayer3861/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0066-plus-one](https://github.com/Demonslayer3861/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Demonslayer3861/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Demonslayer3861/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Demonslayer3861/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Demonslayer3861/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Demonslayer3861/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/Demonslayer3861/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Demonslayer3861/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Demonslayer3861/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 ## Greedy
