@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Demonslayer3861/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/Demonslayer3861/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Demonslayer3861/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Demonslayer3861/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Demonslayer3861/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Demonslayer3861/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Demonslayer3861/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Demonslayer3861/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Demonslayer3861/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Demonslayer3861/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Demonslayer3861/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Demonslayer3861/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Demonslayer3861/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
