@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Demonslayer3861/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Demonslayer3861/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Demonslayer3861/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Demonslayer3861/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Demonslayer3861/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Demonslayer3861/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Demonslayer3861/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Demonslayer3861/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
